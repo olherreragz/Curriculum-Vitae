@@ -1,2 +1,2 @@
 # Curriculum-Vitae
-Curriculum Vitae in spanish and English
+Curriculum Vitae in Spanish and English
