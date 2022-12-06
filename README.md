@@ -8,7 +8,7 @@ ___
 
 - **Research Assistant. Faculty of Economic and Administrative Sciences, Pontificia Universidad Católica de Chile (2022).**
 
-- **Investment Analyst Intern. Wealth Management, Falcom Asset Management. (2022).**
+- **Investment Analyst Intern. Wealth Management, Falcom Asset Management (2022).**
 
 ### Data Science Background
 ___
@@ -16,7 +16,7 @@ ___
 Some of the topics, tools and models covered in university are:
 
 - Montecarlo
-- Generalized linear model
+- Generalized Linear model
 - Generalized Least Squares
 - Gaussian Mixture Model
 - Boostrap
