@@ -14,9 +14,9 @@ ___
 ### Data Science Background
 ___
 
-Some of the topics, tools and models covered in university are: Montecarlo, Generalized Linear Model, Generalized Least Squares, Gaussian Mixture Model, Boostrap, Random Forests, Clustering, Non-Linear Regressions, Numerical Methods and Time Series.
+Some of the topics, tools and models covered in university are: *Montecarlo, Generalized Linear Model, Generalized Least Squares, Gaussian Mixture Model, Boostrap, Random Forests, Clustering, Non-Linear Regressions, Numerical Methods and Time Series.*
 
 ### Finance Background
 ___
 
-Some of the topics covered in university are: Asset Pricing, Derivatives, Fixed Income, Currency Markets, Portfolio Management & Asset Allocation, Monetary Policy and Monetary Morkets.
+Some of the topics covered in university are: *Asset Pricing, Derivatives, Fixed Income, Currency Markets, Portfolio Management & Asset Allocation, Monetary Policy and Monetary Morkets.*
