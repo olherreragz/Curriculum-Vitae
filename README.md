@@ -1,7 +1,9 @@
 # Curriculum-Vitae
 Curriculum Vitae in Spanish and English.
 
-Economics student with Software Engineering background. See more details in the pdfs attached.
+Economics student with Software Engineering background.
+
+See more details in the pdfs attached.
 
 ### Main Experience
 ___
