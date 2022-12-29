@@ -8,7 +8,7 @@ ___
 - **Research Assistant at Pontificia Universidad Católica de Chile (2022).**
 - **Investment Analyst Intern at Falcom Asset Management (2022).**
 
-### Additional information
+<!-- ### Additional information
 ___
 
 #### Econometrics Background
@@ -19,4 +19,4 @@ Models and tools covered in university include: *Generalized Least Squares, Gaus
 #### Financial Economics Background
 ___
 
-Topics covered in university include: *Derivatives Asset Pricing, Fixed Income Asset Pricing, Currency Markets Dynamics, Asset Allocation for Portfolio Mangement and Monetary Markets Movement Drivers.*
+Topics covered in university include: *Derivatives Asset Pricing, Fixed Income Asset Pricing, Currency Markets Movement Drivers, Monetary Markets Movement Drivers and Asset Allocation for Portfolio Management.* -->
