@@ -1,22 +1,22 @@
-# Curriculum-Vitae
-Curriculum Vitae in Spanish and English.
-
-Economics student with Software Engineering background.
+# Curriculum Vitae Repository
 
 See more details in the pdfs attached.
 
 ### Main Experience
 ___
 
-- **Research Assistant. Faculty of Economic and Administrative Sciences, Pontificia Universidad Católica de Chile (2022).**
-- **Investment Analyst Intern. Wealth Management, Falcom Asset Management (2022).**
+- **Research Assistant at Pontificia Universidad Católica de Chile (2022).**
+- **Investment Analyst Intern at Falcom Asset Management (2022).**
 
-### Data Science Background
+### Additional information
 ___
 
-Some of the topics, tools and models covered in university are: *Montecarlo, Generalized Linear Model, Generalized Least Squares, Gaussian Mixture Model, Boostrap, Random Forests, Clustering, Non-Linear Regressions, Numerical Methods and Time Series.*
-
-### Finance Background
+#### Econometrics Background
 ___
 
-Some of the topics covered in university are: *Asset Pricing, Derivatives, Fixed Income, Currency Markets, Portfolio Management & Asset Allocation, Monetary Policy and Monetary Morkets.*
+Models and tools covered in university include: *Generalized Least Squares, Gaussian Mixture Models, Non Linear Regressions, Boostrapping Methods and Time Series Analysis.*
+
+#### Financial Economics Background
+___
+
+Topics covered in university include: *Derivatives Asset Pricing, Fixed Income Asset Pricing, Currency Markets Dynamics, Asset Allocation for Portfolio Mangement and Monetary Markets Movement Drivers.*
